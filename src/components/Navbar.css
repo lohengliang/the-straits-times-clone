@@ -1,0 +1,14 @@
+.navbar {
+    margin-top: -7px;
+    margin-bottom: 0;
+    float: left;
+    margin: 0;
+    padding-left: 0;
+    background-color: #0C2B57;
+    max-height: 46px;
+    position: relative;
+}
+
+.navbarlist {
+    list-style: none;
+}

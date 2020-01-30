@@ -1,0 +1,39 @@
+.headerleft {
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    list-style: None;
+    color: #333333;
+    text-align: left;
+    float: left;
+}
+
+.headerright {
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    list-style: None;
+    color: #333333;
+    text-align: left;
+    float: right;
+}
+
+.sitename {
+    background-image: url(st-masthead--sprite.png);
+    width: 690px;
+    background-size: 706px;
+    background-position: 13px 16px;
+    height: 89px;
+    float: left;
+    padding: 15px 10px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,11 @@
+.navbaritem {
+    color: #FFFFFF !important;
+    padding: 17px 15px;
+    position: relative;
+    display: inline;
+    line-height: 11px !important;
+    background-color: transparent !important;
+    text-transform: uppercase;
+    font-family: "Curator","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,13 @@
+.offercard {
+    margin: auto;
+    width: 1180px;
+}
+
+.offerimg {
+    height: 200px;
+    max-width: 715px;
+    background-image: url(dismissible_banner.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
