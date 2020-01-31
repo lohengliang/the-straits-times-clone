@@ -1,0 +1,62 @@
+.banner-container {
+    margin: 0px 0px 30px 0px;
+    width: 100%;
+    max-width: 1400px;
+    height: 320px;
+}
+
+.banner-content-row {
+    margin-bottom: 15px;
+    height: 100%;
+}
+
+.banner-left-col {
+    padding-right: 0px;
+}
+
+.banner-right-col {
+    padding-left: 0px;
+    height: 320px;
+}
+
+.banner-card {
+    background-color: #1a1a1a;
+    height: 100%;
+}
+
+.banner-card-title {
+    color: #ffffff;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    font-size: 46px;
+    line-height: 1.2;
+}
+
+.banner-card-text {
+    color: #ffffff;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    font-size: 19px;
+    line-height: 1.35;
+    color: #ffffff;
+    max-width: 450px;
+}
+
+.banner-card-button {
+    background-color: rgba(113,28,124,0.8);
+    color: #fff;
+    font-size: 16px;
+    border-radius: 20px;
+    text-transform: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px 0px;
+    font-family: Curator;
+    text-transform: upperca
+}
+
+.wuhan_virus_banner_pic {
+    height: 100%;
+    background-image: url(/static/img/wuhan-what-we-know-banner-mobile.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}

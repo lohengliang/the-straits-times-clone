@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css';
+import './static/css/Header.css';
 import HeaderItem from './HeaderItem'
 import Navbar from './Navbar';
 import Offer from './Offer';

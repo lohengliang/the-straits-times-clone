@@ -1,0 +1,75 @@
+.top-stories-content-container {
+    margin: 0px 0px 0px 0px;
+    max-width: 1400px;
+    border-bottom:0.7pt solid white;
+}
+
+.top-stories-content-row {
+    margin-bottom: 15px;
+}
+
+.top-story-left-col {
+    padding-right: 0px;
+}
+
+.top-story-right-col {
+    padding-left: 0px;
+}
+
+.top-story-card {
+    background-color: #0C2B57;
+}
+
+.top-story-card-title {
+    color: #ffffff;
+}
+
+.top-story-card-text {
+    color: #ffffff;
+}
+
+.who_pic {
+    height: 100%;
+    max-width: 650px;
+    background-image: url(/static/img/who.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.premium-marker {
+    background-image: url(/static/img/label-premium.svg);
+    color: transparent !important;
+    display: block;
+    width: 72px;
+    position: relative;
+    z-index: 2;
+    font-family: "SelaneWebSTTwenty",Georgia,"Times New Roman",Times,serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+.premium-author {
+    color: #5A9DDC;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.premium-title {
+    color: #333333;
+    font-family: "SelaneWebSTTwenty",Georgia,"Times New Roman",Times,serif;
+    width: 100%;
+    height: 100%;
+}
+
+.smaller-top-stories-card {
+    margin-bottom: 10px;
+}
+
+.smaller-top-stories-title {
+    color: #333333;
+    font-family: "SelaneWebSTTwenty",Georgia,"Times New Roman",Times,serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+}

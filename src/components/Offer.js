@@ -1,5 +1,5 @@
 import React from 'react';
-import './Offer.css';
+import './static/css/Offer.css';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
