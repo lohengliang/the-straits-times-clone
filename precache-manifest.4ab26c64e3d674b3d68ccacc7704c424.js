@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bc121e3b0704d388816827c1090e0c4",
+    "revision": "b32d78d248a1e8a13b71e66bb433b368",
     "url": "/the-straits-times-clone/index.html"
   },
   {
-    "revision": "ea3624ba9037eaf9e210",
+    "revision": "8a976cdda54ff7c1245c",
     "url": "/the-straits-times-clone/static/css/main.2041c08f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.LICENSE"
   },
   {
-    "revision": "ea3624ba9037eaf9e210",
-    "url": "/the-straits-times-clone/static/js/main.5bbf6b44.chunk.js"
+    "revision": "8a976cdda54ff7c1245c",
+    "url": "/the-straits-times-clone/static/js/main.2e22ec40.chunk.js"
   },
   {
     "revision": "3cc25df662bd91f5bd3f",
