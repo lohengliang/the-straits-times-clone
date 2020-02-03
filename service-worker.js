@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-straits-times-clone/precache-manifest.4ab26c64e3d674b3d68ccacc7704c424.js"
+  "/the-straits-times-clone/precache-manifest.c8354ac36943b04ec7b781582f19b2bf.js"
 );
 
 self.addEventListener('message', (event) => {
