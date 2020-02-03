@@ -41,6 +41,7 @@
     background-image: url(/static/img/label-premium.svg);
     color: transparent !important;
     display: block;
+    height: 18px;
     width: 72px;
     position: relative;
     z-index: 2;

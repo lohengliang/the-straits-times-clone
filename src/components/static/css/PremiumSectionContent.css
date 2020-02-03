@@ -1,0 +1,119 @@
+.premium-section-content-container {
+    margin: 0px 0px 0px 0px;
+    max-width: 1400px;
+    border-bottom: 0.7pt solid white;
+}
+
+.premium-section-content-row {
+    margin-bottom: 15px;
+}
+
+.large-premium-card-premium-marker {
+    background-image: url(/static/img/label-premium.svg);
+    color: transparent !important;
+    display: block;
+    width: 72px;
+    height: 18px;
+    z-index: 2;
+    font-family: "SelaneWebSTTwenty", Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 10px 0px 0px 10px;
+}
+
+.large-premium-card {
+    background-color: #0C2B57;
+}
+
+.large-premium-card.card-body {
+    padding: 10px;
+}
+
+.large-premium-card-author {
+    color: #5A9DDC;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-bottom: 3px;
+}
+
+.large-premium-card-title {
+    color: #ffffff;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+    border-bottom: 0.7pt dotted gray;
+}
+
+.large-premium-card-text {
+    color: #ffffff;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+}
+
+.normal-premium-card-premium-marker {
+    background-image: url(/static/img/label-premium.svg);
+    color: transparent !important;
+    display: block;
+    width: 72px;
+    height: 18px;
+    z-index: 2;
+    font-family: "SelaneWebSTTwenty", Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 10px 0px 0px 10px;
+}
+
+.normal-premium-card.card-body {
+    padding: 10px;
+}
+
+.normal-premium-card-author {
+    color: #5A9DDC;
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-bottom: 3px;
+}
+
+.normal-premium-card-title {
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+    border-bottom: 0.7pt dotted gray;
+}
+
+.normal-premium-card-text {
+    font-family: "SelaneWebSTOne",Georgia,"Times New Roman",Times,serif;
+}
+
+.epaper-card {
+    padding: 10px;
+}
+
+.epaper-title {
+    margin-bottom: 3px;
+    font-size: 24px;
+    font-family: "SelaneWebSTTwenty",Georgia,"Times New Roman",Times,serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.epaper-image {
+    margin: 15px 15px 15px 15px;
+    padding: 15px 15px 15px 15px;
+    width: auto;
+}
+
+.read-pdf-button {
+    font-size: 14px;
+    line-height: 1.42857143;
+    font-family: "Curator","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    color: #333;
+    margin: 0 auto 50px auto;
+    padding: 2px 15px;
+}

@@ -1,0 +1,28 @@
+.premium-header {
+    border-bottom:0.7pt solid black;
+    margin: 20px 20px 20px 20px;
+}
+
+.premium-header-marker {
+    text-transform: uppercase;
+    color: transparent !important;
+    content: '';
+    left: -3px;
+    top: -13px;
+    width: 110px;
+    height: 30px;
+    background-image: url(/static/img/label-premium.svg);
+    background-size: 112px;
+    overflow: visible;
+}
+
+.premium-footer {
+    margin-right: 15px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.premium-footer-words {
+    float: right;
+    padding-right: 15px;
+}
