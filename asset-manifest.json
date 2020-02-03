@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-straits-times-clone/static/css/main.2041c08f.chunk.css",
-    "main.js": "/the-straits-times-clone/static/js/main.18155c7b.chunk.js",
-    "main.js.map": "/the-straits-times-clone/static/js/main.18155c7b.chunk.js.map",
+    "main.js": "/the-straits-times-clone/static/js/main.5bbf6b44.chunk.js",
+    "main.js.map": "/the-straits-times-clone/static/js/main.5bbf6b44.chunk.js.map",
     "runtime-main.js": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js",
     "runtime-main.js.map": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js.map",
     "static/js/2.ef2c8d5d.chunk.js": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js",
     "static/js/2.ef2c8d5d.chunk.js.map": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.map",
     "index.html": "/the-straits-times-clone/index.html",
-    "precache-manifest.6e725eb4dcb5cb362aff23780d245e45.js": "/the-straits-times-clone/precache-manifest.6e725eb4dcb5cb362aff23780d245e45.js",
+    "precache-manifest.079bc16e4508fad8617f7f04f78f8baf.js": "/the-straits-times-clone/precache-manifest.079bc16e4508fad8617f7f04f78f8baf.js",
     "service-worker.js": "/the-straits-times-clone/service-worker.js",
     "static/css/main.2041c08f.chunk.css.map": "/the-straits-times-clone/static/css/main.2041c08f.chunk.css.map",
     "static/js/2.ef2c8d5d.chunk.js.LICENSE": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6b5c58d1.js",
     "static/js/2.ef2c8d5d.chunk.js",
     "static/css/main.2041c08f.chunk.css",
-    "static/js/main.18155c7b.chunk.js"
+    "static/js/main.5bbf6b44.chunk.js"
   ]
 }
