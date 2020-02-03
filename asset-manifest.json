@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lohengliang/the-straits-times-clone/static/css/main.939f5371.chunk.css",
-    "main.js": "/lohengliang/the-straits-times-clone/static/js/main.18155c7b.chunk.js",
-    "main.js.map": "/lohengliang/the-straits-times-clone/static/js/main.18155c7b.chunk.js.map",
-    "runtime-main.js": "/lohengliang/the-straits-times-clone/static/js/runtime-main.f2d94aed.js",
-    "runtime-main.js.map": "/lohengliang/the-straits-times-clone/static/js/runtime-main.f2d94aed.js.map",
-    "static/js/2.ef2c8d5d.chunk.js": "/lohengliang/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js",
-    "static/js/2.ef2c8d5d.chunk.js.map": "/lohengliang/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.map",
-    "index.html": "/lohengliang/the-straits-times-clone/index.html",
-    "precache-manifest.36456d89da63ee5a874b5aa6385aa16a.js": "/lohengliang/the-straits-times-clone/precache-manifest.36456d89da63ee5a874b5aa6385aa16a.js",
-    "service-worker.js": "/lohengliang/the-straits-times-clone/service-worker.js",
-    "static/css/main.939f5371.chunk.css.map": "/lohengliang/the-straits-times-clone/static/css/main.939f5371.chunk.css.map",
-    "static/js/2.ef2c8d5d.chunk.js.LICENSE": "/lohengliang/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.LICENSE"
+    "main.css": "/the-straits-times-clone/static/css/main.939f5371.chunk.css",
+    "main.js": "/the-straits-times-clone/static/js/main.18155c7b.chunk.js",
+    "main.js.map": "/the-straits-times-clone/static/js/main.18155c7b.chunk.js.map",
+    "runtime-main.js": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js",
+    "runtime-main.js.map": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js.map",
+    "static/js/2.ef2c8d5d.chunk.js": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js",
+    "static/js/2.ef2c8d5d.chunk.js.map": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.map",
+    "index.html": "/the-straits-times-clone/index.html",
+    "precache-manifest.18682df7bfe624eb2ec738b9f592f1b7.js": "/the-straits-times-clone/precache-manifest.18682df7bfe624eb2ec738b9f592f1b7.js",
+    "service-worker.js": "/the-straits-times-clone/service-worker.js",
+    "static/css/main.939f5371.chunk.css.map": "/the-straits-times-clone/static/css/main.939f5371.chunk.css.map",
+    "static/js/2.ef2c8d5d.chunk.js.LICENSE": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2d94aed.js",
+    "static/js/runtime-main.6b5c58d1.js",
     "static/js/2.ef2c8d5d.chunk.js",
     "static/css/main.939f5371.chunk.css",
     "static/js/main.18155c7b.chunk.js"
