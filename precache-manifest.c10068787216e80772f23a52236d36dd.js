@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "041bfd00bd1bbb3ba6930fe96f8161f0",
+    "revision": "12a2740d9a4a21ab4c68d16048faff16",
     "url": "/the-straits-times-clone/index.html"
   },
   {
-    "revision": "ea2430317d359b5156de",
-    "url": "/the-straits-times-clone/static/css/main.939f5371.chunk.css"
+    "revision": "cde5f235b0f39b1de5a6",
+    "url": "/the-straits-times-clone/static/css/main.a12f2b06.chunk.css"
   },
   {
     "revision": "a4331afb3a12e561fd38",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.LICENSE"
   },
   {
-    "revision": "ea2430317d359b5156de",
+    "revision": "cde5f235b0f39b1de5a6",
     "url": "/the-straits-times-clone/static/js/main.18155c7b.chunk.js"
   },
   {
     "revision": "3cc25df662bd91f5bd3f",
     "url": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js"
+  },
+  {
+    "revision": "1bb69c3b304609b3dcd2f397dcb8aab7",
+    "url": "/the-straits-times-clone/static/media/label-premium.1bb69c3b.svg"
   }
 ]);
