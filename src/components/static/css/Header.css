@@ -25,7 +25,7 @@
 }
 
 .sitename {
-    background-image: url(/static/img/st-masthead--sprite.png);
+    background-image: url(../img/st-masthead--sprite.png);
     width: 690px;
     background-size: 706px;
     background-position: 13px 16px;

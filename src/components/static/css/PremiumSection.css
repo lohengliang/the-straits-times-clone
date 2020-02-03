@@ -11,7 +11,7 @@
     top: -13px;
     width: 110px;
     height: 30px;
-    background-image: url(/static/img/label-premium.svg);
+    background-image: url(../img/label-premium.svg);
     background-size: 112px;
     overflow: visible;
 }

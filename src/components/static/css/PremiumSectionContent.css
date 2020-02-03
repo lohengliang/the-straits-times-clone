@@ -9,7 +9,7 @@
 }
 
 .large-premium-card-premium-marker {
-    background-image: url(/static/img/label-premium.svg);
+    background-image: url(../img/label-premium.svg);
     color: transparent !important;
     display: block;
     width: 72px;
@@ -51,7 +51,7 @@
 }
 
 .normal-premium-card-premium-marker {
-    background-image: url(/static/img/label-premium.svg);
+    background-image: url(../img/label-premium.svg);
     color: transparent !important;
     display: block;
     width: 72px;

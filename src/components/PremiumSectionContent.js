@@ -12,7 +12,7 @@ const PremiumSectionContent = (props) => {
                 <Row className="premium-section-content-row">
                     <Col md={6}>
                         <Card className="large-premium-card" style={{ height: "100%"}}>
-                            <Card.Img variant="top" src="/static/img/ST_20200203_VNORCHARD_5422052.jpg" />
+                            <Card.Img variant="top" src="./static/img/ST_20200203_VNORCHARD_5422052.jpg" />
                             <span className="large-premium-card-premium-marker">Premium</span>
                             <Card.Body className="large-premium-card">
                                 <Card.Title className="large-premium-card-author">Tiffany Fumiko Tay</Card.Title>
@@ -25,7 +25,7 @@ const PremiumSectionContent = (props) => {
                     </Col>
                     <Col md={3}>
                         <Card className="normal-premium-card" style={{ height: "100%"}}>
-                            <Card.Img variant="top" src="/static/img/ST_20200203_CLWUHAN_5419328.jpg" />
+                            <Card.Img variant="top" src="./static/img/ST_20200203_CLWUHAN_5419328.jpg" />
                             <span className="normal-premium-card-premium-marker">Premium</span>
                             <Card.Body className="normal-premium-card">
                                 <Card.Title className="normal-premium-card-author">Clara Lock</Card.Title>
@@ -44,7 +44,7 @@ const PremiumSectionContent = (props) => {
                                     FRIDAY JANUARY 31 2020
                                 </Card.Text>
                             </Card.Body>
-                            <Card.Img className="epaper-image" variant="bottom" src="/static/img/st20200203-pri-001-00.jpg" />
+                            <Card.Img className="epaper-image" variant="bottom" src="./static/img/st20200203-pri-001-00.jpg" />
                             <div className="read-pdf-button">Read PDF</div>
                         </Card>
                     </Col>

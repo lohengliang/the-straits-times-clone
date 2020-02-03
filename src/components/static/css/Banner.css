@@ -55,7 +55,7 @@
 
 .wuhan_virus_banner_pic {
     height: 100%;
-    background-image: url(/static/img/wuhan-what-we-know-banner-mobile.jpg);
+    background-image: url(../img/wuhan-what-we-know-banner-mobile.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;

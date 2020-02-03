@@ -31,14 +31,14 @@
 .who_pic {
     height: 100%;
     max-width: 650px;
-    background-image: url(/static/img/who.jpg);
+    background-image: url(../img/who.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
 
 .premium-marker {
-    background-image: url(/static/img/label-premium.svg);
+    background-image: url(../img/label-premium.svg);
     color: transparent !important;
     display: block;
     height: 18px;
