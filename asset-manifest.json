@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/the-straits-times-clone/static/css/main.2041c08f.chunk.css",
-    "main.js": "/the-straits-times-clone/static/js/main.ab2e69f4.chunk.js",
-    "main.js.map": "/the-straits-times-clone/static/js/main.ab2e69f4.chunk.js.map",
+    "main.css": "/the-straits-times-clone/static/css/main.98e5d760.chunk.css",
+    "main.js": "/the-straits-times-clone/static/js/main.9c987f65.chunk.js",
+    "main.js.map": "/the-straits-times-clone/static/js/main.9c987f65.chunk.js.map",
     "runtime-main.js": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js",
     "runtime-main.js.map": "/the-straits-times-clone/static/js/runtime-main.6b5c58d1.js.map",
-    "static/js/2.ef2c8d5d.chunk.js": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js",
-    "static/js/2.ef2c8d5d.chunk.js.map": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.map",
+    "static/js/2.ac71cfd0.chunk.js": "/the-straits-times-clone/static/js/2.ac71cfd0.chunk.js",
+    "static/js/2.ac71cfd0.chunk.js.map": "/the-straits-times-clone/static/js/2.ac71cfd0.chunk.js.map",
     "index.html": "/the-straits-times-clone/index.html",
-    "precache-manifest.c8354ac36943b04ec7b781582f19b2bf.js": "/the-straits-times-clone/precache-manifest.c8354ac36943b04ec7b781582f19b2bf.js",
+    "precache-manifest.4f82f5c007c3b346eee72a66d51bbcf1.js": "/the-straits-times-clone/precache-manifest.4f82f5c007c3b346eee72a66d51bbcf1.js",
     "service-worker.js": "/the-straits-times-clone/service-worker.js",
-    "static/css/main.2041c08f.chunk.css.map": "/the-straits-times-clone/static/css/main.2041c08f.chunk.css.map",
-    "static/js/2.ef2c8d5d.chunk.js.LICENSE": "/the-straits-times-clone/static/js/2.ef2c8d5d.chunk.js.LICENSE",
+    "static/css/main.98e5d760.chunk.css.map": "/the-straits-times-clone/static/css/main.98e5d760.chunk.css.map",
+    "static/js/2.ac71cfd0.chunk.js.LICENSE": "/the-straits-times-clone/static/js/2.ac71cfd0.chunk.js.LICENSE",
+    "static/media/Footer.css": "/the-straits-times-clone/static/media/responsive-multimedia-ST.675798d6.png",
     "static/media/Offer.css": "/the-straits-times-clone/static/media/dismissible_banner.164c23f2.jpg",
     "static/media/PremiumSectionContent.css": "/the-straits-times-clone/static/media/label-premium.1bb69c3b.svg",
     "static/media/Header.css": "/the-straits-times-clone/static/media/st-masthead--sprite.d0e7408c.png",
@@ -20,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6b5c58d1.js",
-    "static/js/2.ef2c8d5d.chunk.js",
-    "static/css/main.2041c08f.chunk.css",
-    "static/js/main.ab2e69f4.chunk.js"
+    "static/js/2.ac71cfd0.chunk.js",
+    "static/css/main.98e5d760.chunk.css",
+    "static/js/main.9c987f65.chunk.js"
   ]
 }
