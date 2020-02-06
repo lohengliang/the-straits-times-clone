@@ -4,6 +4,7 @@ import TopStories from './components/TopStories';
 import Banner from './components/Banner';
 import WuhanVirusSection from './components/WuhanVirusSection';
 import PremiumSection from './components/PremiumSection';
+import Footer from './components/Footer';
 
 const App = (props) => {
     return (
@@ -13,6 +14,7 @@ const App = (props) => {
             <Banner />
             <WuhanVirusSection />
             <PremiumSection />
+            <Footer />
         </div>
     );
 };
