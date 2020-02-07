@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33a336fb5046ec4bc079a9dcf5c1b089",
+    "revision": "94833238f35aa5cad95f14ebdbb6a93d",
     "url": "/the-straits-times-clone/index.html"
   },
   {
