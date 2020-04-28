@@ -1,3 +1,5 @@
+# The Straits Times Clone
+
 ![alt text](https://github.com/lohengliang/lohengliang.github.io/blob/master/static/img/thestraitstimesclone.png?raw=true)
 
 This is a clone of The Straits Times' page using React.
